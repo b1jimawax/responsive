@@ -41,7 +41,7 @@ main{
 }
 .button:hover{
     color:  #A8ABE8;
-    background-color: white;
+    background-color: rgb(150, 146, 146);
 }
 section{
     display: flex;
